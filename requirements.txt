@@ -1,7 +1,7 @@
 streamlit
 yfinance
-neuralprophet
-pandas
 numpy
-scikit-learn
-plotly
+pandas
+matplotlib
+scikit-learn 
+tensorflow
